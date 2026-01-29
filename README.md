@@ -13,3 +13,5 @@ I've been skeptical about my major in computer science for a while, worrying tha
 After reading your article, my opinions on the software engineering world is quite similar to yours. Given that even the most experienced software engineers are using AI to do most of the work, its only natural that us students follow the same example. 
 
 Adding on to this, I wonder how coding interviews would work in the future - would we still be given leetcode questions? Or are we going to be expected to work with AI to create some product?
+
+Jaiden Xu jbx202
